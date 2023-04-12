@@ -1,0 +1,8 @@
+{
+    "actived": true,
+    "serveur": "ldap://192.168.56.102",
+    "domaine": "@antoine.dmn",
+    "port": "636",
+    "identifiant": "administrateur",
+    "motDePasse": "Antoine12s@"
+}

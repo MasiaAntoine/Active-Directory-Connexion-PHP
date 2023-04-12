@@ -1,0 +1,6 @@
+name,firstName,mail,mobile,password,description,activate
+John,Doe,john.doe@example.com,0612345679,P@ssword1!,Développeur web talentueux,true
+Jane,Smith,jane.smith@example.com,0623456890,p@ssW0rd2!,Gestionnaire de projet expérimenté,false
+Bob,Johnson,bob.johnson@example.com,0634578901,P@ssw0rd3!,Designer graphique créatif,false
+Emma,Brown,emma.brown@example.com,0645679012,p@ssW0rd4!,Analyste financière déterminée,false
+Luke,Davis,luke.davis@example.com,0656780123,P@ssw0rd5!,Ingénieur en intelligence artificielle passionné,true
